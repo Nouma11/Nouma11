@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Amine<br>I'm a Software Developer passionate about clean code, scalable design, and solving problems with efficient algorithms.<br><br>💡 About Me<br>🔁 Solid foundation in Data Structures & Algorithms<br>🧼 Advocate for Clean Code and readable architecture<br>🏗️ Learning and working with 3-Tier Architecture (Presentation → Logic → Data)<br>💻 Languages: C++, C#, Java, Python<br>🌐 Web: HTML, CSS, JavaScript<br>🗄️ Databases: SQL, SQL Server<br>🚀 Current Goals<br>Building robust apps using layered architecture<br>Exploring full-stack development and best practices<br>Contributing to open-source projects
+👋 Hi, I'm Mohamed Amine<br>I'm a Junior Software Developer passionate about clean code, scalable design, and solving problems with efficient algorithms.<br><br>💡 About Me<br>🔁 Solid foundation in Data Structures & Algorithms<br>🧼 Advocate for Clean Code and readable architecture<br>🏗️ Learning and working with 3-Tier Architecture (Presentation → Logic → Data)<br>💻 Languages: C++, C#, Java, Python<br>🌐 Web: HTML, CSS, JavaScript<br>🗄️ Databases: SQL, SQL Server<br>🚀 Current Goals<br>Building robust apps using layered architecture<br>Exploring full-stack development and best practices<br>Contributing to open-source projects
 
 
 ## 🌐 Socials:
@@ -12,13 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nouma11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouma11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nouma11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nouma11&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Nouma11&icon=3&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nouma11&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
