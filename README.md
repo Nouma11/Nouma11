@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Amine 
 
-<!--
-**Nouma11/Nouma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Software Developer** passionate about **clean code**, scalable design, and solving problems with efficient algorithms.
 
-Here are some ideas to get you started:
+## 💡 About Me
+- 🔁 Solid foundation in **Data Structures & Algorithms**
+- 🧼 Advocate for **Clean Code** and readable architecture
+- 🏗️ Learning and working with **3-Tier Architecture** (Presentation → Logic → Data)
+- 💻 Languages: C++, C#, Java, Python
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Databases: SQL, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Building robust apps using layered architecture
+- Exploring full-stack development and best practices
+- Contributing to open-source projects
+
+## 📫 Let's Connect
+- 💼 [LinkedIn] https://www.linkedin.com/in/mohamed-amine-nouma-45023a281/
+- 🤝 Open to learning, building, and collaborating!
+
+---
+
+Thanks for visiting my profile! 🙌
